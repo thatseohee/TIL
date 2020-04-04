@@ -3,8 +3,13 @@
 
 
 ## 1일차 학습
- - GitHub 계정 생성
- - GitHub 저장소 생성
+[HTML 이란?]  
+ - HTML이란 링크 형식의 시스템입니다. ~~ㄴ아ㅓㄴ아~~ 
+ ```html
+ <body>
+ </body>
+ ```
+
 
 ## 2일차 학습
  - GitKraken 설치
